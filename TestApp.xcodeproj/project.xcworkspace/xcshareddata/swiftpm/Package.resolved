@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "8dd85aee02e39dd280c75eef88ffdb86eed4b07b",
+        "version" : "5.6.2"
+      }
+    },
+    {
+      "identity" : "nuke",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/Nuke.git",
+      "state" : {
+        "revision" : "7f73ceaeacd5df75a7994cd82e165ad9ff1815db",
+        "version" : "9.6.1"
+      }
+    }
+  ],
+  "version" : 2
+}
